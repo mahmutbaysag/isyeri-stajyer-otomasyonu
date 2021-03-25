@@ -1,0 +1,18 @@
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\bin\Debug\İşyeri Stajyer Otomasyonu(SP).exe
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\bin\Debug\İşyeri Stajyer Otomasyonu(SP).pdb
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\bin\Debug\MetroFramework.Design.dll
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\bin\Debug\MetroFramework.dll
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri Stajyer Otomasyonu(SP).csprojAssemblyReference.cache
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri_Stajyer_Otomasyonu_SP_.Form1.resources
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri_Stajyer_Otomasyonu_SP_.Properties.Resources.resources
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri Stajyer Otomasyonu(SP).csproj.GenerateResource.cache
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri Stajyer Otomasyonu(SP).csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri Stajyer Otomasyonu(SP).csproj.CopyComplete
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri Stajyer Otomasyonu(SP).exe
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri Stajyer Otomasyonu(SP).pdb
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri_Stajyer_Otomasyonu_SP_.Form2.resources
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri_Stajyer_Otomasyonu_SP_.Form3.resources
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri_Stajyer_Otomasyonu_SP_.Form4.resources
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\bin\Debug\İşyeri Stajyer Otomasyonu(SP).exe.config
+C:\Users\astro\source\repos\İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP)\obj\Debug\İşyeri_Stajyer_Otomasyonu_SP_.Form5.resources

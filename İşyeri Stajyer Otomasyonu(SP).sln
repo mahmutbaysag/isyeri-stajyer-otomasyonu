@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İşyeri Stajyer Otomasyonu(SP)", "İşyeri Stajyer Otomasyonu(SP)\İşyeri Stajyer Otomasyonu(SP).csproj", "{7EDADCBF-328D-40DD-8399-A8BF7879E171}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "İşyeri Stajyer Otomasyonu (SP)", "İşyeri Stajyer Otomasyonu (SP)\İşyeri Stajyer Otomasyonu (SP).vdproj", "{853E8402-2BFD-4B74-AB17-F44364E21A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EDADCBF-328D-40DD-8399-A8BF7879E171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDADCBF-328D-40DD-8399-A8BF7879E171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDADCBF-328D-40DD-8399-A8BF7879E171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDADCBF-328D-40DD-8399-A8BF7879E171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853E8402-2BFD-4B74-AB17-F44364E21A53}.Debug|Any CPU.ActiveCfg = Debug
+		{853E8402-2BFD-4B74-AB17-F44364E21A53}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E16A1244-C9A3-4C2D-81D8-731A5330C675}
+	EndGlobalSection
+EndGlobal
