@@ -1,6 +1,6 @@
 # İşyeri Stajyer Otomasyonu - Workplace Intern Otomation
 
-High School internship assignment
+My High School internship Assignment
 
 ![Preview1](iso.png)
 
